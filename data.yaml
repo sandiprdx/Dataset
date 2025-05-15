@@ -1,5 +1,5 @@
 train: /content/Dataset/train/images
 val: /content/Dataset/train/images  # or add a real val folder if you have one
 
-nc: 1
-names: ['tree']
+nc: 4
+names: ['tree','garbage','pit','building']
